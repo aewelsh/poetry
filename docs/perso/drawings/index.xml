@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drawings on HUGO MyPortfolio Theme</title>
-    <link>/perso/drawings/</link>
+    <link>/poetry/perso/drawings/</link>
     <description>Recent content in Drawings on HUGO MyPortfolio Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/perso/drawings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/poetry/perso/drawings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Music</title>
-      <link>/perso/drawings/music/</link>
+      <link>/poetry/perso/drawings/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/perso/drawings/music/</guid>
+      <guid>/poetry/perso/drawings/music/</guid>
       <description>Music drawings&amp;hellip;</description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>/perso/drawings/random/</link>
+      <link>/poetry/perso/drawings/random/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/perso/drawings/random/</guid>
+      <guid>/poetry/perso/drawings/random/</guid>
       <description>Drawing(s)&amp;hellip;</description>
     </item>
     

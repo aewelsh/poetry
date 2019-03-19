@@ -3,215 +3,215 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/poetry/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/pro/the-awesome-company/other-project/</loc>
+    <loc>/poetry/pro/the-awesome-company/other-project/</loc>
   </url>
   
   <url>
-    <loc>/pro/the-awesome-company/simple-project/</loc>
+    <loc>/poetry/pro/the-awesome-company/simple-project/</loc>
   </url>
   
   <url>
-    <loc>/pro/company/single-project/</loc>
+    <loc>/poetry/pro/company/single-project/</loc>
   </url>
   
   <url>
-    <loc>/pro/company/</loc>
+    <loc>/poetry/pro/company/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/poetry/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro/client-x/</loc>
+    <loc>/poetry/pro/client-x/</loc>
   </url>
   
   <url>
-    <loc>/perso/drawings/</loc>
+    <loc>/poetry/perso/drawings/</loc>
   </url>
   
   <url>
-    <loc>/perso/food/</loc>
+    <loc>/poetry/perso/food/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/perso/statues/humans/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/it/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/perso/food/moo-moo/</loc>
-  </url>
-  
-  <url>
-    <loc>/perso/drawings/music/</loc>
-  </url>
-  
-  <url>
-    <loc>/perso/statues/others/</loc>
-  </url>
-  
-  <url>
-    <loc>/perso/</loc>
-  </url>
-  
-  <url>
-    <loc>/pro/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>/poetry/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/poetry/perso/statues/humans/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/categories/it/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/perso/food/moo-moo/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/perso/drawings/music/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/perso/statues/others/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/perso/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/pro/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/poetry/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/perso/drawings/random/</loc>
-  </url>
-  
-  <url>
-    <loc>/perso/food/no-photos/</loc>
-  </url>
-  
-  <url>
-    <loc>/perso/statues/</loc>
-  </url>
-  
-  <url>
-    <loc>/pro/the-awesome-company/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/poetry/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pro/client-x/single-project/</loc>
+    <loc>/poetry/perso/drawings/random/</loc>
   </url>
   
   <url>
-    <loc>/perso/food/vietnam/</loc>
+    <loc>/poetry/perso/food/no-photos/</loc>
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <priority>0</priority>
+    <loc>/poetry/perso/statues/</loc>
   </url>
   
   <url>
-    <loc>/tags/asian/</loc>
-    <priority>0</priority>
+    <loc>/poetry/pro/the-awesome-company/</loc>
   </url>
   
   <url>
-    <loc>/tags/bundle/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/drawing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/foie-gras/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/food/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/human/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/music/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pho/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
+    <loc>/poetry/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/poetry/pro/client-x/single-project/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/perso/food/vietnam/</loc>
+  </url>
+  
+  <url>
+    <loc>/poetry/categories/art/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/asian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/bundle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/drawing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/foie-gras/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/categories/food/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/human/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/music/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/pho/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/salad/</loc>
+    <loc>/poetry/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/seafood/</loc>
+    <loc>/poetry/tags/salad/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/simple/</loc>
+    <loc>/poetry/tags/seafood/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/soup/</loc>
+    <loc>/poetry/tags/simple/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/statue/</loc>
+    <loc>/poetry/tags/soup/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/vietnam/</loc>
+    <loc>/poetry/categories/statue/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/western/</loc>
+    <loc>/poetry/categories/vietnam/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/tags/western/</loc>
     <priority>0</priority>
   </url>
   
